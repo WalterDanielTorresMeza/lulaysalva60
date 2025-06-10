@@ -1,0 +1,24 @@
+.countdown {
+  text-align: center;
+  padding: 2rem 1rem;
+  color: #414141;
+  font-family: 'Poppins', sans-serif;
+    background: 
+    linear-gradient(to bottom right, rgba(255, 255, 255, 0.342), rgba(255, 255, 255, 0.425));
+}
+
+.countdown h2 {
+  margin-bottom: 1rem;
+  font-size: 2.5rem;
+  color: #414141;
+}
+
+.countdown-box {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+
