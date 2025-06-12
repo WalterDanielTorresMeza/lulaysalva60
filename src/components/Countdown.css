@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Hand+Pre:wght@400..700&display=swap');
+
 .countdown {
   text-align: center;
   padding: 2rem 1rem;
   color: #414141;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Edu NSW ACT Hand Pre', cursive;
     background: 
     linear-gradient(to bottom right, rgba(255, 255, 255, 0.342), rgba(255, 255, 255, 0.425));
 }
