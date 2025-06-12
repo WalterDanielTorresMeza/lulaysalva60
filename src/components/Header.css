@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Hand+Pre:wght@400..700&display=swap');
+
 :root {
   --main-gold: #414141;
   --soft-pink: #414141;
   --flower-pink: #414141;
   --dusty-rose: #414141;
   --light-gold: #414141;
+  --font-header: 'Edu NSW ACT Hand Pre', cursive;
 }
 
 .header {
@@ -13,7 +16,7 @@
   text-align: center;
   padding: 4rem 1rem;
   border-bottom: 1px solid var(--light-gold);
-  font-family: 'Poppins', sans-serif;
+  font-family: var(--font-header);
   position: relative;
 }
 
