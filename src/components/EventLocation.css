@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Hand+Pre:wght@400..700&display=swap');
+
 .event-location {
     background: 
     linear-gradient(to bottom right, rgba(255, 255, 255, 0.342), rgba(255, 255, 255, 0.425));
   text-align: center;
   padding: 3rem 1rem;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Edu NSW ACT Hand Pre', cursive;
   color: #414141;
 }
 
