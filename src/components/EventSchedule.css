@@ -1,14 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Hand+Pre:wght@400..700&display=swap');
+
 .event-schedule {
    background: 
     linear-gradient(to bottom right, rgba(255, 255, 255, 0.342), rgba(255, 255, 255, 0.425));
   padding: 2rem 1rem;
   text-align: center;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Edu NSW ACT Hand Pre', cursive;
   color: #414141;
 }
 
 .event-schedule h2 {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Edu NSW ACT Hand Pre', cursive;
   font-size: 2.5rem;
   color: #414141;
   margin-bottom: 1.5rem;
