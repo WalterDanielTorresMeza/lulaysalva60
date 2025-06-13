@@ -9,7 +9,7 @@ body {
 
 @media (max-width: 768px) {
   body {
-    background-image: url('/src/f1a.png'); /* versión adaptada */
+    background-image: url('/src/img/fac.png'); /* versión adaptada */
     background-size: contain;
     background-repeat: repeat-y;
     background-position: top center;
