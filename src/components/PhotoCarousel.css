@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Hand+Pre:wght@400..700&display=swap');
+
 .carousel-section {
   padding: 2rem 1rem;
   background: 
     linear-gradient(to bottom right, rgba(255, 255, 255, 0.342), rgba(255, 255, 255, 0.425));
   text-align: center;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Edu NSW ACT Hand Pre', cursive;
   color: #414141;
 }
 
@@ -34,7 +36,7 @@
   display: flex;
   align-items: center;
   gap: 0.5rem;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Edu NSW ACT Hand Pre', cursive;
   font-size: 1.8rem;
   color: #a47163;
   justify-content: center;
