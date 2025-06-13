@@ -6,7 +6,7 @@ const EventLocation = () => {
     <section className="event-location">
       <h2>Lugar del Evento</h2>
       <p className="location-name">Quinta de Leonarda</p>
-      <p className="location-address">Zona Centro, 98100 Morelos, Zacatecas</p>
+      <p className="location-address">Priv. San José 111, Zacatecas</p>
       <p className="event-date-time">26 de Julio de 2025 · 4:30 PM</p>
 
       <a
