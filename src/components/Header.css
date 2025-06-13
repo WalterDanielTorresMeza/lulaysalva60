@@ -30,7 +30,7 @@
 .header-subtitle {
   font-size: 1.3rem;
   font-style: italic;
-  margin-top: 1rem;
+  margin-top: 0rem;
   color: var(--dusty-rose);
 }
 
