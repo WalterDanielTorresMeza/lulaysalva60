@@ -1,6 +1,6 @@
 
 body {
-  background-image: url('/src/img/fac.png'); /* versión para escritorio */
+  background-image: url('/src/img/facc.png'); /* versión para escritorio */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -9,7 +9,7 @@ body {
 
 @media (max-width: 768px) {
   body {
-    background-image: url('/src/img/fac.png'); /* versión adaptada */
+    background-image: url('/src/img/facc.png'); /* versión adaptada */
     background-size: contain;
     background-repeat: repeat-y;
     background-position: top center;
